@@ -4,10 +4,11 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
+    "dev": "vite", 
+    "build": "vite build", 
+    "lint": "eslint .", 
+    "preview": "vite preview", 
+    "start": "vite preview"   // Add this line for production server
   },
   "dependencies": {
     "react": "^19.0.0",
